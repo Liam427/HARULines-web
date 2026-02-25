@@ -34,4 +34,4 @@ Text Secondary: #8A7E72
 - 한국어 주석 OK
 
 ## 연락처
-blahblah.ybw@gmail.com
+harulines.app@gmail.com

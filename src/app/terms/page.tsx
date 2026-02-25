@@ -160,10 +160,10 @@ export default function TermsPage() {
           <h2 className="font-heading text-xl font-semibold">14. Contact</h2>
           <p className="mt-2">
             <a
-              href="mailto:blahblah.ybw@gmail.com"
+              href="mailto:harulines.app@gmail.com"
               className="text-primary hover:underline"
             >
-              blahblah.ybw@gmail.com
+              harulines.app@gmail.com
             </a>
           </p>
         </section>

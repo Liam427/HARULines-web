@@ -30,11 +30,11 @@ const faqs = [
   },
   {
     q: "How do I delete my account?",
-    a: 'Open the app → Settings → Scroll to bottom → Tap "Delete Account". Alternatively, email blahblah.ybw@gmail.com with your account email.',
+    a: 'Open the app → Settings → Scroll to bottom → Tap "Delete Account". Alternatively, email harulines.app@gmail.com with your account email.',
   },
   {
     q: "I found a bug. How do I report it?",
-    a: "Please email us at blahblah.ybw@gmail.com with a description of the issue and your device information (phone model, OS version). Screenshots are helpful!",
+    a: "Please email us at harulines.app@gmail.com with a description of the issue and your device information (phone model, OS version). Screenshots are helpful!",
   },
   {
     q: "What languages does HARULines support?",
@@ -63,10 +63,10 @@ export default function SupportPage() {
           Have a question that isn&apos;t answered above?
         </p>
         <a
-          href="mailto:blahblah.ybw@gmail.com"
+          href="mailto:harulines.app@gmail.com"
           className="mt-4 inline-block rounded-lg bg-primary px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary/90"
         >
-          blahblah.ybw@gmail.com
+          harulines.app@gmail.com
         </a>
       </section>
     </article>

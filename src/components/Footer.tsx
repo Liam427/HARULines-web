@@ -37,10 +37,10 @@ export default function Footer() {
         </div>
         <div className="mt-4 text-center sm:text-left">
           <a
-            href="mailto:blahblah.ybw@gmail.com"
+            href="mailto:harulines.app@gmail.com"
             className="text-sm text-text-secondary hover:text-primary transition-colors"
           >
-            blahblah.ybw@gmail.com
+            harulines.app@gmail.com
           </a>
         </div>
       </div>
